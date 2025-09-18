@@ -1,0 +1,45 @@
+{
+    "entities": [
+        {
+            "type": "HP BAR BG",
+            "components": {
+                "TransformComponent": {
+                    "x": 254.0,
+                    "y": 1024.0,
+                    "scaleX": 1024.0,
+                    "scaleY": 1024.0,
+                    "rotation": 0.0,
+                    "tag": ""
+                },
+                "RenderComponent": {
+                    "textureID": "HP Bar BGOverlay",
+                    "color": [
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "alpha": 1.0,
+                    "renderType": "Sprite"
+                },
+                "TextComponent": {
+                    "text": "",
+                    "fontSize": 16.0,
+                    "color": [
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "fontName": "",
+                    "offset": [
+                        0.0,
+                        0.0
+                    ]
+                },
+                "LayerComponent": {
+                    "LayerID": 0,
+                    "SortID": 0
+                }
+            }
+        }
+    ]
+}

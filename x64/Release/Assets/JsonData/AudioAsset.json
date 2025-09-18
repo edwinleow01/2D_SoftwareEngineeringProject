@@ -1,0 +1,202 @@
+{
+    "musicAssets": [
+        {
+            "customName": "Skull_Death_SFX",
+            "filePath": "Assets/Audio/soundeffect/Skull_Death_SFX.wav",
+            "mode": "oneshot",
+            "soundType": "effect"
+        },
+        {
+            "customName": "Music_Level_BGM",
+            "filePath": "Assets/Audio/bgm/Music_Level_BGM.wav",
+            "mode": "loop",
+            "soundType": "background"
+        },
+        {
+            "customName": "Music_Boss_BGM",
+            "filePath": "Assets/Audio/bgm/Music_Boss_BGM.wav",
+            "mode": "loop",
+            "soundType": "background"
+        },
+        {
+            "customName": "GameLose_SFX",
+            "filePath": "Assets/Audio/soundeffect/GameLose_SFX.wav",
+            "mode": "oneshot",
+            "soundType": "effect"
+        },
+        {
+            "customName": "Tutorial_BGM",
+            "filePath": "Assets/Audio/bgm/Tutorial_BGM.wav",
+            "mode": "loop",
+            "soundType": "background"
+        },
+        {
+            "customName": "MainMenu_BGM",
+            "filePath": "Assets/Audio/bgm/MainMenu_BGM.wav",
+            "mode": "loop",
+            "soundType": "background"
+        },
+        {
+            "customName": "Shoot_Wrong_SFX",
+            "filePath": "Assets/Audio/soundeffect/Shoot_Wrong_SFX.wav",
+            "mode": "oneshot",
+            "soundType": "effect"
+        },
+        {
+            "customName": "Shoot_Correct_SFX",
+            "filePath": "Assets/Audio/soundeffect/Shoot_Correct_SFX.wav",
+            "mode": "oneshot",
+            "soundType": "effect"
+        },
+        {
+            "customName": "Boss_Shoot_SFX",
+            "filePath": "Assets/Audio/soundeffect/Boss_Shoot_SFX.wav",
+            "mode": "oneshot",
+            "soundType": "effect"
+        },
+        {
+            "customName": "playerwalk_01_SFX",
+            "filePath": "Assets/Audio/soundeffect/playerwalk_01_SFX.wav",
+            "mode": "oneshot",
+            "soundType": "effect"
+        },
+        {
+            "customName": "slimedeath_02_SFX",
+            "filePath": "Assets/Audio/soundeffect/slimedeath_02_SFX.wav",
+            "mode": "oneshot",
+            "soundType": "effect"
+        },
+        {
+            "customName": "BossDie_SFX",
+            "filePath": "Assets/Audio/soundeffect/BossDie_SFX.wav",
+            "mode": "oneshot",
+            "soundType": "effect"
+        },
+        {
+            "customName": "SmokeDie_SFX",
+            "filePath": "Assets/Audio/soundeffect/SmokeDie_SFX.wav",
+            "mode": "oneshot",
+            "soundType": "effect"
+        },
+        {
+            "customName": "PoisonDie_SFX",
+            "filePath": "Assets/Audio/soundeffect/PoisonDie_SFX.wav",
+            "mode": "oneshot",
+            "soundType": "effect"
+        },
+        {
+            "customName": "Boss_Warning_SFX",
+            "filePath": "Assets/Audio/soundeffect/Boss_Warning_SFX.wav",
+            "mode": "oneshot",
+            "soundType": "effect"
+        },
+        {
+            "customName": "TimeGoBack_SFX",
+            "filePath": "Assets/Audio/soundeffect/TimeGoBack_SFX.wav",
+            "mode": "oneshot",
+            "soundType": "effect"
+        },
+        {
+            "customName": "Boss_Damage_SFX",
+            "filePath": "Assets/Audio/soundeffect/Boss_Damage_SFX.wav",
+            "mode": "oneshot",
+            "soundType": "effect"
+        },
+        {
+            "customName": "Boss_Hit_SFX",
+            "filePath": "Assets/Audio/soundeffect/Boss_Hit_SFX.wav",
+            "mode": "oneshot",
+            "soundType": "effect"
+        },
+        {
+            "customName": "TimeSlow_SFX",
+            "filePath": "Assets/Audio/soundeffect/TimeSlow_SFX.wav",
+            "mode": "oneshot",
+            "soundType": "effect"
+        },
+        {
+            "customName": "Explosion_SFX",
+            "filePath": "Assets/Audio/soundeffect/Explosion_SFX.wav",
+            "mode": "oneshot",
+            "soundType": "effect"
+        },
+        {
+            "customName": "HoverSound_SFX",
+            "filePath": "Assets/Audio/soundeffect/HoverSound_SFX.wav",
+            "mode": "oneshot",
+            "soundType": "effect"
+        },
+        {
+            "customName": "BackSpace_SFX",
+            "filePath": "Assets/Audio/soundeffect/BackSpace_SFX.wav",
+            "mode": "oneshot",
+            "soundType": "effect"
+        },
+        {
+            "customName": "BossWin_SFX",
+            "filePath": "Assets/Audio/soundeffect/BossWin_SFX.wav",
+            "mode": "oneshot",
+            "soundType": "effect"
+        },
+        {
+            "customName": "ButtonPress_SFX",
+            "filePath": "Assets/Audio/soundeffect/ButtonPress_SFX.wav",
+            "mode": "oneshot",
+            "soundType": "effect"
+        },
+        {
+            "customName": "Ding5_SFX",
+            "filePath": "Assets/Audio/soundeffect/Ding5_SFX.wav",
+            "mode": "oneshot",
+            "soundType": "effect"
+        },
+        {
+            "customName": "GameWin_SFX",
+            "filePath": "Assets/Audio/soundeffect/GameWin_SFX.wav",
+            "mode": "oneshot",
+            "soundType": "effect"
+        },
+        {
+            "customName": "PlayerDamaged_SFX",
+            "filePath": "Assets/Audio/soundeffect/PlayerDamaged_SFX.wav",
+            "mode": "oneshot",
+            "soundType": "effect"
+        },
+        {
+            "customName": "Ding3_SFX",
+            "filePath": "Assets/Audio/soundeffect/Ding3_SFX.wav",
+            "mode": "oneshot",
+            "soundType": "effect"
+        },
+        {
+            "customName": "Ding1_SFX",
+            "filePath": "Assets/Audio/soundeffect/Ding1_SFX.wav",
+            "mode": "oneshot",
+            "soundType": "effect"
+        },
+        {
+            "customName": "Ding2_SFX",
+            "filePath": "Assets/Audio/soundeffect/Ding2_SFX.wav",
+            "mode": "oneshot",
+            "soundType": "effect"
+        },
+        {
+            "customName": "Ding6_SFX",
+            "filePath": "Assets/Audio/soundeffect/Ding6_SFX.wav",
+            "mode": "oneshot",
+            "soundType": "effect"
+        },
+        {
+            "customName": "Ding4_SFX",
+            "filePath": "Assets/Audio/soundeffect/Ding4_SFX.wav",
+            "mode": "oneshot",
+            "soundType": "effect"
+        },
+        {
+            "customName": "Typing_SFX",
+            "filePath": "Assets/Audio/soundeffect/Typing_SFX.wav",
+            "mode": "oneshot",
+            "soundType": "effect"
+        }
+    ]
+}
